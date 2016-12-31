@@ -1,0 +1,12 @@
+{
+  "name": "Go stamp",
+  "description": "Go stamp",
+  "keywords": [
+    "stamp",
+    "go",
+  ],
+  "image": "heroku/go:1.7",
+  "mount_dir": "src/github.com/ken1flan/go_stamp",
+  "website": "http://github.com/ken1flan/go_stamp",
+  "repository": "http://github.com/ken1flan/go_stamp"
+}
